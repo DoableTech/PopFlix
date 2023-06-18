@@ -1,6 +1,5 @@
 # PopFlix - Sistema de Integração de Filmes e Séries Gratuito
 
-![PopFlix Logo](https://www.doabletech.com.br/web/image/392-3851eb70/1.png)
 
 Bem-vindo ao PopFlix! Um projeto inovador que visa fornecer uma plataforma de integração de filmes e séries de forma gratuita. O PopFlix foi desenvolvido com o objetivo de oferecer aos usuários uma experiência completa de entretenimento, permitindo que eles assistam seus filmes e séries favoritos em um único lugar.
 
